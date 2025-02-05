@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikasrana07
 <!--- 👀 I’m interested in ... -->
-- 🌱 I’m currently learning Ionic JS
+- 🌱 I’m currently learning React Native
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 You can reach me on skype: vikasrana1987
 
