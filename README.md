@@ -15,10 +15,9 @@ I'm also passionate about integrating **AI & automation** (OpenAI, Zapier, Make.
 
 ---
 
-### 🏆 Experience
-- **14+ years** of Full-Stack Development experience  
-- Specialized in **React, Angular, Node.js, Laravel & PHP**  
-- **AI & Automation Expert** – OpenAI, Zapier, Make.com  
+- 🏆 **14+ years** of Full-Stack Development experience  
+- 🔧 Specialized in **React, Angular, Node.js, Laravel & PHP**  
+- 🤖 **AI & Automation Expert** – OpenAI, Zapier, Make.com  
 - 🌍 Based in **Chandigarh, India**  
 - 📫 **Email:** [rana.vikas22@gmail.com](mailto:rana.vikas22@gmail.com)  
 <!-- - 💼 **Portfolio:** [https://vikasrana.dev](#) _(Add link when ready)_ -->
