@@ -7,8 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 🚀 **About Me**
 
-Driven **Senior Full-Stack Developer** with 14+ years of experience architecting and building **high-performance, scalable web applications**.  
-I specialize in transforming complex business needs into **clean, efficient, and maintainable end-to-end solutions** for startups and growing businesses.
+I’m a passionate **Full-Stack Developer** with over 14 years of experience designing and building **high-performance, scalable web applications**. I excel at turning complex business requirements into **elegant, efficient, and maintainable end-to-end solutions** — empowering startups and growing businesses to scale faster.
 
 My expertise lies in the **JavaScript ecosystem**, crafting dynamic frontends with **Angular/React/Next.js** and robust backends with **Node.js & NestJS**.  
 I'm also passionate about integrating **AI & automation** (OpenAI, Zapier, Make.com) to create intelligent, efficient workflows.
