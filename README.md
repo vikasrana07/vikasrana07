@@ -128,15 +128,48 @@ I'm also passionate about integrating **AI & automation** (OpenAI, Zapier, Make.
 ---
 
 ## 🤝 Connect With Me
-<p align="left">
-  <a href="mailto:rana.vikas22@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" /></a>
-  <a href="https://linkedin.com/in/vikasrana07"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="https://vikasrana.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Portfolio" /></a>
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://vikasrana.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Vikas-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/vikasrana07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:rana.vikas22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/vikasrana07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
+<p align="center">
+💡 “Transforming ideas into scalable, production-ready solutions.”
+</p>
 
-💡 _“Transforming ideas into scalable, production-ready solutions.”_
 
-![Profile Views](https://komarev.com/ghpvc/?username=vikasrana07&label=Profile%20Views&color=00e676&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/vikasrana07?label=Followers&style=social)
+<p align="center">
+  <!-- Profile Views -->
+  <a href="https://komarev.com/ghpvc/?username=vikasrana07" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=vikasrana07&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  </a>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/vikasrana07" target="_blank">
+    <img src="https://img.shields.io/github/followers/vikasrana07?style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<p align="center">
+Available for freelance projects and long-term collaborations
+</p
+
+
